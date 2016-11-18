@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AE5C6ECE-9972-1AB8-ED4C-CE7997DD87F7}") = "demoHiAR", "Assembly-CSharp.csproj", "{0557F2CB-41B4-F927-E484-A7A38CB8A4EC}"
+EndProject
+Project("{AE5C6ECE-9972-1AB8-ED4C-CE7997DD87F7}") = "demoHiAR", "Assembly-CSharp-Editor.csproj", "{CAA015AA-BA94-C2C6-FB25-C7FD85691E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0557F2CB-41B4-F927-E484-A7A38CB8A4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0557F2CB-41B4-F927-E484-A7A38CB8A4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0557F2CB-41B4-F927-E484-A7A38CB8A4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0557F2CB-41B4-F927-E484-A7A38CB8A4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA015AA-BA94-C2C6-FB25-C7FD85691E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA015AA-BA94-C2C6-FB25-C7FD85691E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA015AA-BA94-C2C6-FB25-C7FD85691E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA015AA-BA94-C2C6-FB25-C7FD85691E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
